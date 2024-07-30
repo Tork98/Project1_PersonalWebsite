@@ -13,6 +13,6 @@ To create a landing page, here are some helpful links
 * https://vercel.com/templates/next.js/portfolio-starter-kit
 * https://vercel.com/templates/next.js/nextjs-commerce
 
-  ##Acknowedgements
+  ## Acknowedgements
   Special thanks to Headstarter.ai, Yasin Ehsan (co-founder @ Headstarter.ai and people who taught in the links. 
 
